@@ -1,3 +1,3 @@
 # blinkit-clone
 
-live - 
+live - https://ajaykumar-1201.github.io/blinkit-clone/
